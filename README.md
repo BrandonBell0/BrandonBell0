@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
+<img src="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
 
 <br><br>
 
