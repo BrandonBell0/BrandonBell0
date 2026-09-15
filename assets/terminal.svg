@@ -1,0 +1,48 @@
+t<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal de presentacion de Brandon Bello</title>
+  <desc id="desc">Una ventana de terminal con informacion profesional sobre Brandon Bello, ingeniero de sistemas enfocado en cloud, backend y datos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1930"/>
+    </linearGradient>
+    <linearGradient id="line" x1="90" y1="80" x2="1110" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .small { font-size: 15px; }
+      .body { font-size: 22px; }
+      .label { font-size: 17px; letter-spacing: 1px; }
+      .cursor { animation: blink 1.1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="428" rx="18" fill="url(#bg)" stroke="#1E3A5F" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="64" rx="18" fill="#0E2038"/>
+  <path d="M1 64H1199" stroke="#1E3A5F"/>
+  <circle cx="34" cy="33" r="9" fill="#FB7185"/>
+  <circle cx="64" cy="33" r="9" fill="#FBBF24"/>
+  <circle cx="94" cy="33" r="9" fill="#34D399"/>
+  <text x="600" y="39" text-anchor="middle" fill="#94A3B8" class="mono small">brandon@cloud-lab: ~</text>
+  <path d="M78 94H1122" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <text x="78" y="132" fill="#22D3EE" class="mono body">$ whoami</text>
+  <text x="78" y="170" fill="#F8FAFC" class="mono body">brandon_bello</text>
+  <text x="78" y="201" fill="#94A3B8" class="mono label">SYSTEMS ENGINEER / CLOUD &amp; DATA BUILDER</text>
+  <text x="78" y="253" fill="#60A5FA" class="mono body">$ cat profile.yml</text>
+  <text x="78" y="292" fill="#CBD5E1" class="mono body">focus:</text>
+  <text x="190" y="292" fill="#A5F3FC" class="mono body">[ backend, cloud, data, automation ]</text>
+  <text x="78" y="327" fill="#CBD5E1" class="mono body">stack:</text>
+  <text x="190" y="327" fill="#A5F3FC" class="mono body">[ python, azure, aws, sql, react ]</text>
+  <text x="78" y="362" fill="#CBD5E1" class="mono body">location:</text>
+  <text x="238" y="362" fill="#A5F3FC" class="mono body">Bogota, Colombia</text>
+  <text x="78" y="402" fill="#22D3EE" class="mono body">$ <tspan fill="#F8FAFC">ship solutions that scale</tspan><tspan class="cursor" fill="#22D3EE">_</tspan></text>
+  <path d="M1080 125L1110 155L1080 185" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+  <path d="M1110 220L1080 250L1110 280" stroke="#60A5FA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+</svg>
