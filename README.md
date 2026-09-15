@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg">
+  <img src="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
+</picture>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=22D3EE&background=07111F&center=true&vCenter=true&multiline=true&repeat=true&height=105&width=900&lines=%24+echo+Hola%2C+soy+Brandon;%3E+cofundador+de+Softdatai;%24+status;%3E+building+Softdatai" alt="Texto animado de Brandon">
 
 <br><br>
 
