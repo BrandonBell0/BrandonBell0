@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Brandon+Bello+%7C+Cloud+%26+Data;Backend%2C+automatizacion+y+soluciones+escalables;Software+que+convierte+datos+en+decisiones" alt="Presentacion animada">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=700&color=22D3EE&background=07111F&center=true&vCenter=true&multiline=true&repeat=true&height=190&width=900&lines=%24+whoami;%3E+brandon_bello;%24+echo+focus%3A+backend+%7C+cloud+%7C+data;%24+status;%3E+building+Softdatai" alt="Terminal animada de Brandon"></a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/brandombello/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &nbsp;
 <a href="mailto:brandondavidbello@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"></a>
+&nbsp;
+<a href="https://www.instagram.com/_brandonbello/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 &nbsp;
 <a href="https://github.com/BrandonBell0"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
@@ -20,7 +22,7 @@
 
 ## whoami
 
-Soy <strong>Brandon David Bello Forero</strong>, Ingeniero de Sistemas desde Bogota, Colombia. Me muevo entre backend, cloud y datos para convertir procesos manuales en soluciones claras, automatizadas y listas para crecer.
+Soy <strong>Brandon David Bello Forero</strong>, Ingeniero de Sistemas desde Bogota, Colombia. Actualmente soy cofundador de <strong><a href="https://softdatai.com">Softdatai</a></strong>, donde construyo soluciones de software, cloud y datos para convertir procesos manuales en productos claros y escalables.
 
 - Cloud en <strong>Azure y AWS</strong>: serverless, storage, bases de datos y CI/CD.
 - <strong>Backend, APIs REST y ETL/ELT</strong> con Python, SQL y servicios cloud.
@@ -44,39 +46,11 @@ Soy <strong>Brandon David Bello Forero</strong>, Ingeniero de Sistemas desde Bog
 
 ---
 
-<table>
-<tr><td bgcolor="#07111F"><pre>$ whoami
-brandon_bello
-
-$ cat profile.yml
-focus:    [ backend, cloud, data, automation ]
-stack:    [ python, azure, aws, sql, react ]
-location: Bogota, Colombia
-
-$ ship solutions that scale_</pre></td></tr>
-</table>
-
-## como conecto las piezas
-
-<table>
-<tr>
-<td align="center"><strong>01 / INPUT</strong><br>APIs - CSV - DWH</td>
-<td align="center">--&gt;</td>
-<td align="center"><strong>02 / PROCESS</strong><br>Python - SQL - ETL</td>
-<td align="center">--&gt;</td>
-<td align="center"><strong>03 / CLOUD</strong><br>Azure - AWS - Docker</td>
-<td align="center">--&gt;</td>
-<td align="center"><strong>04 / PRODUCT</strong><br>APIs - React - BI</td>
-</tr>
-</table>
-
----
-
 ## experiencia
 
 <table>
 <tr>
-<td width="24%"><strong>Softdatai</strong><br><sub>Desarrollador Backend & Cloud<br>Jul 2025 - Abr 2026</sub></td>
+<td width="24%"><strong>Softdatai</strong><br><sub>Co-Fundador & Backend / Cloud<br>Actualidad</sub></td>
 <td>Infraestructura cloud con Supabase y Cloudflare, PostgreSQL, APIs REST, pipelines ETL/ELT, integraciones de IA, automatizaciones y desarrollo full stack con Python, SQL y React.</td>
 </tr>
 <tr>
