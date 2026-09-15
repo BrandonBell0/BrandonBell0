@@ -30,7 +30,7 @@
   <circle cx="34" cy="33" r="9" fill="#FB7185"/>
   <circle cx="64" cy="33" r="9" fill="#FBBF24"/>
   <circle cx="94" cy="33" r="9" fill="#34D399"/>
-  <text x="600" y="39" text-anchor="middle" fill="#94A3B8" class="mono small">brandon@cloud-lab: ~</text>
+  <text x="600" y="39" text-anchor="middle" fill="#94A3B8" class="mono small">brandon@softdatai: ~</text>
   <path d="M78 94H1122" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
   <text x="78" y="132" fill="#22D3EE" class="mono body">$ whoami</text>
   <text x="78" y="170" fill="#F8FAFC" class="mono body">brandon_bello</text>
