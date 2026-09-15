@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=900&color=22D3EE&background=07111F&center=true&vCenter=true&multiline=true&repeat=true&height=105&width=900&lines=%24+echo+Hola%2C+soy+Brandon;%3E+cofundador+de+Softdatai;%24+status;%3E+building+Softdatai" alt="Texto animado de Brandon">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&height=60&width=900&lines=Brandon+Bello+-+Ingeniero+de+Sistemas;Backend+%2F+Cloud+%2F+Data+%2F+Automation;Cofundador+de+Softdatai;Building+products+that+scale" alt="Texto animado de Brandon">
 
 <br><br>
 
