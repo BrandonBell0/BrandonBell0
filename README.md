@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=700&color=22D3EE&background=07111F&center=true&vCenter=true&multiline=true&repeat=true&height=190&width=900&lines=%24+whoami;%3E+brandon_bello;%24+echo+focus%3A+backend+%7C+cloud+%7C+data;%24+status;%3E+building+Softdatai" alt="Terminal animada de Brandon"></a>
+<img src="assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
 
 <br><br>
 
