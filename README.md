@@ -8,7 +8,9 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&height=60&width=900&lines=Brandon+Bello+-+Ingeniero+de+Sistemas;Backend+%2F+Cloud+%2F+Data+%2F+Automation;Cofundador+de+Softdatai;Building+products+that+scale" alt="Texto animado de Brandon">
+<picture>
+  <img src="./assets/typing.svg" width="100%" alt="Texto animado de Brandon">
+</picture>
 
 <br><br>
 
