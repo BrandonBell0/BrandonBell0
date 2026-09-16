@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg">
-  <img src="https://raw.githubusercontent.com/BrandonBell0/BrandonBell0/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zdabron/zdabron/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zdabron/zdabron/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg">
+  <img src="https://raw.githubusercontent.com/zdabron/zdabron/1e4b51d2c96298894463416998536cae82734631/assets/terminal.svg" width="100%" alt="Terminal profesional de Brandon">
 </picture>
 
 <br>
@@ -20,11 +20,11 @@
 &nbsp;
 <a href="https://www.instagram.com/_brandonbello/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 &nbsp;
-<a href="https://github.com/BrandonBell0"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/zdabron"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=BrandonBell0&style=flat&color=0ea5e9&label=visitas+al+perfil" alt="Visitas al perfil">
+<img src="https://komarev.com/ghpvc/?username=zdabron&style=flat&color=0ea5e9&label=visitas+al+perfil" alt="Visitas al perfil">
 
 </div>
 
