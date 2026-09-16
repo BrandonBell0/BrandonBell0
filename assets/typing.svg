@@ -1,19 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" role="img" aria-labelledby="title desc">
   <title id="title">Presentacion animada de Brandon Bello</title>
   <desc id="desc">Texto animado con el perfil profesional de Brandon Bello.</desc>
-  <style>
-    .phrase { fill: #22d3ee; font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; font-size: 22px; font-weight: 600; text-anchor: middle; animation: write 16s infinite; }
-    .p2 { animation-delay: 4s; }
-    .p3 { animation-delay: 8s; }
-    .p4 { animation-delay: 12s; }
-    @keyframes write {
-      0%, 2% { opacity: 0; clip-path: inset(0 100% 0 0); }
-      8%, 22% { opacity: 1; clip-path: inset(0 0 0 0); }
-      28%, 100% { opacity: 0; clip-path: inset(0 100% 0 0); }
-    }
-  </style>
-  <text class="phrase p1" x="450" y="43">Brandon Bello — Ingeniero de Sistemas</text>
-  <text class="phrase p2" x="450" y="43">Backend / Cloud / Data / Automation</text>
-  <text class="phrase p3" x="450" y="43">Cofundador de Softdatai</text>
-  <text class="phrase p4" x="450" y="43">Building products that scale</text>
+  <g fill="#22d3ee" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="22px" font-weight="600" text-anchor="middle">
+    <text x="450" y="43" opacity="1">Brandon Bello — Ingeniero de Sistemas
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" values="1;1;1;0;0;1" keyTimes="0;0.06;0.20;0.27;0.98;1" />
+    </text>
+    <text x="450" y="43" opacity="0">Backend / Cloud / Data / Automation
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.27;0.33;0.47;0.54;1" />
+    </text>
+    <text x="450" y="43" opacity="0">Cofundador de Softdatai
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.54;0.60;0.74;0.81;1" />
+    </text>
+    <text x="450" y="43" opacity="0">Building products that scale
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.81;0.87;0.98;0.99;1" />
+    </text>
+  </g>
 </svg>
